@@ -4,8 +4,8 @@ import pandas as pd
 import discord
 import google.generativeai
 
-GOOGLE_API_KEY = 'AIzaSyBl3nMIbRZQMfKjq5LX4I1k06_ocIndbVM'
-DISCORD_BOT_KEY = 'MTIzMzY1ODcxNTA4NTczODAzNQ.Gqzhfc.fHgTmJFsnFGoNwIdhzwDZIgkXZ7VIZ_XWtY3_k'
+GOOGLE_API_KEY = 
+DISCORD_BOT_KEY = 
 
 intents = discord.Intents.default()
 intents.message_content = True
